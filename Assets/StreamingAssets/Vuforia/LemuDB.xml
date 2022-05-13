@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Pokemon" size="1.000000 1.250000" />
+    <ImageTarget name="Xiao" size="1.000000 1.000000" />
+    <ImageTarget name="Ganyu" size="1.000000 1.000000" />
+    <ImageTarget name="Shenhe" size="1.000000 1.000000" />
+    <ImageTarget name="Kazuha" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
